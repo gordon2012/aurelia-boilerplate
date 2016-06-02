@@ -4,3 +4,4 @@ A boilerplate for the Aurelia framework based on the tutorial at http://aurelia.
 
 - Creating Your First Screen
 - Adding Navigation
+- Adding a Second Page

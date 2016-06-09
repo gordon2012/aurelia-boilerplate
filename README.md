@@ -7,3 +7,5 @@ A boilerplate for the Aurelia framework based on the tutorial at http://aurelia.
 - Adding a Second Page
 - Bonus: Creating a Custom Element
 - Bonus: Leveraging Child Routers
+
+- add test page
